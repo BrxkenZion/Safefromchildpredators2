@@ -1,0 +1,65 @@
+.e
+{ font-family: Arial;
+
+}
+.topnav {
+
+  color: green;
+  overflow: hidden;
+
+min-height: 30px;
+
+}
+​
+.topnav a {
+  float: left;
+
+  color: blue;
+  text-align: center;
+  padding: 15px 16px;
+  text-decoration: none;
+  font-size: 100px;
+}
+​
+.topnav a:hover {
+  background-color: white;
+  color: blue;
+}
+​
+.topnav a.active {
+  background-color: #white;
+  color: white;
+}
+.potato
+{ font-family: Arial;}
+.heloisedashalina
+{font-family: Arial;
+text-align: center;
+font-size: 40px;}
+
+p{ font-family: Arial;
+font-size: 22px;
+font-weight: normal;}
+ul{font-family: Arial;
+font-size: 22px;}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 300px;
+  border: 5 px solid green;
+  padding: 50px;
+  margin: 20px; }
+
+h1
+{ font-family: Arial;
+  font-weight: normal;
+font-size: 30px;
+text-align: center; }
+.heading2
+{ font-family: Arial;
+  ;
+}
+h2 { font-family: Arial;}
